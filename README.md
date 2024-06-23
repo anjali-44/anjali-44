@@ -3,15 +3,6 @@
 Hi, I'm Anjali 👋
 I am an aspiring Data Scientist passionate about leveraging data-driven insights to solve real-world problems. My journey in data science has equipped me with skills in Python programming, Data Analysis, Machine Learning, and Statistical Modeling.
 
-### About Me
-
-🔭 I’m currently exploring various datasets and honing my skills in exploratory data analysis (EDA).
-🌱 I’m learning SQL to enhance my data manipulation and querying capabilities.
-👯 I’m looking to collaborate on projects involving predictive analytics and machine learning.
-💬 Ask me about my recent projects in data analysis and visualization.
-📫 How to reach me: LinkedIn
-😄 Pronouns: She/Her
-
 ### Skills and Interests
 
 Programming Languages: 
